@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b44d3d8f91b2495e",
+        "id": "0a64c6064ba60233",
         "type": "tabs",
         "children": [
           {
-            "id": "93b7fd47125881a8",
+            "id": "7de5b0fe58d561a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Bandit Level 15 → Level 16.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9757830fb033183d",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Bandit Level 9 → Level 10.md",
+                "file": "retos-bandit/Bandit Level 15 → Level 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Bandit Level 9 → Level 10.md",
+                "file": "retos-bandit/Bandit Level 15 → Level 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Bandit Level 9 → Level 10.md"
+                "file": "retos-bandit/Bandit Level 15 → Level 16.md"
               }
             }
           }
@@ -143,14 +146,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "00bccb0453ca53ee",
+  "active": "7de5b0fe58d561a2",
   "lastOpenFiles": [
+    "retos-bandit/Bandit Level 14 → Level 15.md",
+    "retos-bandit/Bandit Level 15 → Level 16.md",
+    "retos-bandit/Plantilla.md",
+    "retos-bandit/Bandit Level 13 → Level 14.md",
+    "retos-bandit/Bandit Level 12 → Level 13.md",
+    "retos-bandit/Bandit Level 11 → Level 12.md",
+    "primer-parcial-picoCTF/06.- Bases.md",
+    "primer-parcial-picoCTF/Plantilla.md",
+    "primer-parcial-picoCTF/05.- strings it.md",
+    "primer-parcial-picoCTF/04.- what's a net cat..md",
+    "primer-parcial-picoCTF/03.- 2Warm..md",
+    "primer-parcial-picoCTF/02.- Warmed Up..md",
+    "primer-parcial-picoCTF/01.- Lets Warm Up..md",
+    "primer-parcial-picoCTF",
+    "retos-bandit/Bandit Level 10 → Level 11.md",
+    "retos-bandit/Bandit Level 9 → Level 10.md",
     "retos-bandit/Bandit Level 8 → Level 9.md",
     "retos-bandit/Bandit Level 7 → Level 8.md",
-    "retos-bandit/Bandit Level 9 → Level 10.md",
     "retos-bandit/Bandit Level 5 → Level 6.md",
     "retos-bandit/Bandit Level 6 → Level 7.md",
-    "retos-bandit/Plantilla.md",
     "retos-bandit/Bandit Level 3 → Level 4.md",
     "Untitled.md",
     "retos-bandit/Bandit Level 4 → Level 5.md",
